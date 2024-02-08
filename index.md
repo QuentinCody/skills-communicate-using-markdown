@@ -3,4 +3,7 @@
 ###### H6 is the smallest header
 
 
-This is a short, meaningful commit message. 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+Added image with alt-text
