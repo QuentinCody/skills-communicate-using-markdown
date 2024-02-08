@@ -13,3 +13,9 @@ Added image with alt-text
 var myVar = "Hello, world!";
 ```
 checking that this is the correct markdown format for code
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
