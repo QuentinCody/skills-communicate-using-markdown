@@ -7,3 +7,9 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Added image with alt-text
+
+
+``` javascript
+var myVar = "Hello, world!";
+```
+checking that this is the correct markdown format for code
